@@ -1,0 +1,6 @@
+{
+  "name": "Paralane",
+  "description": "Conversations, without compromise. A premium, private, and intelligent messaging platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
