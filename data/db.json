@@ -1,0 +1,154 @@
+{
+  "users": [
+    {
+      "id": "user-system",
+      "email": "system@paralane.io",
+      "username": "Paralane Bot ⚡",
+      "passwordHash": "system-bot-password-hash-not-real",
+      "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=paralane",
+      "createdAt": "2026-07-17T16:02:33.317Z"
+    },
+    {
+      "id": "user-1784304255648-3d06wvwqj",
+      "email": "zultanade11@gmail.com",
+      "username": "zultan",
+      "passwordHash": "paralanedev123",
+      "avatarUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=zultan",
+      "createdAt": "2026-07-17T16:04:15.648Z",
+      "allowSearch": true,
+      "requireMessageRequests": true
+    },
+    {
+      "id": "user-1784307532598-66kf5v4xl",
+      "email": "mjrzultan@gmail.com",
+      "username": "paralane",
+      "passwordHash": "paralanedev123",
+      "avatarUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=paralane",
+      "createdAt": "2026-07-17T16:58:52.598Z"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat-general",
+      "name": "Paralane General Space 🚀",
+      "isGroup": true,
+      "participantIds": [
+        "user-system",
+        "user-1784304255648-3d06wvwqj",
+        "user-1784307532598-66kf5v4xl"
+      ],
+      "createdBy": "user-system",
+      "createdAt": "2026-07-17T16:02:33.318Z"
+    },
+    {
+      "id": "chat-1784307545807-dm6ewf28h",
+      "name": "zultan",
+      "isGroup": false,
+      "participantIds": [
+        "user-1784307532598-66kf5v4xl",
+        "user-1784304255648-3d06wvwqj"
+      ],
+      "createdBy": "user-1784307532598-66kf5v4xl",
+      "createdAt": "2026-07-17T16:59:05.807Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-welcome",
+      "chatId": "chat-general",
+      "senderId": "user-system",
+      "senderName": "Paralane Bot ⚡",
+      "senderAvatar": "https://api.dicebear.com/7.x/bottts/svg?seed=paralane",
+      "text": "Welcome to Paralane General Space! This is a live persistent space. Register your account, invite your friends, or create new chats/groups seamlessly! 💬⚡",
+      "createdAt": "2026-07-17T16:02:33.318Z",
+      "seen": true
+    },
+    {
+      "id": "msg-1784304372946-tc9cx",
+      "chatId": "chat-1784304291916-h2pdeehc5",
+      "senderId": "user-1784304255648-3d06wvwqj",
+      "senderName": "zultan",
+      "senderAvatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=zultan",
+      "text": "hey",
+      "createdAt": "2026-07-17T16:06:12.946Z"
+    },
+    {
+      "id": "msg-1784304387672-z3awv",
+      "chatId": "chat-1784304291916-h2pdeehc5",
+      "senderId": "user-1784304255648-3d06wvwqj",
+      "senderName": "zultan",
+      "senderAvatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=zultan",
+      "text": "what you doing",
+      "createdAt": "2026-07-17T16:06:27.672Z"
+    },
+    {
+      "id": "msg-1784305571370-nda51",
+      "chatId": "chat-1784304291916-h2pdeehc5",
+      "senderId": "user-1784304255648-3d06wvwqj",
+      "senderName": "zultan",
+      "senderAvatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=zultan",
+      "text": "hello",
+      "createdAt": "2026-07-17T16:26:11.370Z"
+    },
+    {
+      "id": "msg-1784307553770-n3lyr",
+      "chatId": "chat-1784307545807-dm6ewf28h",
+      "senderId": "user-1784307532598-66kf5v4xl",
+      "senderName": "paralane",
+      "senderAvatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=paralane",
+      "text": "hello",
+      "createdAt": "2026-07-17T16:59:13.770Z",
+      "seen": true
+    },
+    {
+      "id": "msg-1784307605684-frn8v",
+      "chatId": "chat-1784307545807-dm6ewf28h",
+      "senderId": "user-1784304255648-3d06wvwqj",
+      "senderName": "zultan",
+      "senderAvatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=zultan",
+      "text": "hi there",
+      "createdAt": "2026-07-17T17:00:05.684Z"
+    },
+    {
+      "id": "msg-1784307631307-qjl0a",
+      "chatId": "chat-general",
+      "senderId": "user-1784304255648-3d06wvwqj",
+      "senderName": "zultan",
+      "senderAvatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=zultan",
+      "text": "hello",
+      "createdAt": "2026-07-17T17:00:31.307Z",
+      "seen": true
+    },
+    {
+      "id": "msg-1784307645877-uh9ni",
+      "chatId": "chat-general",
+      "senderId": "user-1784304255648-3d06wvwqj",
+      "senderName": "zultan",
+      "senderAvatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=zultan",
+      "text": "@bot",
+      "createdAt": "2026-07-17T17:00:45.877Z",
+      "seen": true
+    },
+    {
+      "id": "msg-1784307645877-bot",
+      "chatId": "chat-general",
+      "senderId": "user-system",
+      "senderName": "Paralane Bot ⚡",
+      "senderAvatar": "https://api.dicebear.com/7.x/bottts/svg?seed=paralane",
+      "text": "Hello! I am Paralane Core Engine ⚡. How can I help you today?",
+      "createdAt": "2026-07-17T17:00:45.977Z",
+      "seen": true
+    },
+    {
+      "id": "msg-1784307657498-5dupj",
+      "chatId": "chat-general",
+      "senderId": "user-1784304255648-3d06wvwqj",
+      "senderName": "zultan",
+      "senderAvatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=zultan",
+      "text": "help me with 2=2",
+      "createdAt": "2026-07-17T17:00:57.498Z",
+      "seen": true
+    }
+  ],
+  "messageRequests": []
+}
